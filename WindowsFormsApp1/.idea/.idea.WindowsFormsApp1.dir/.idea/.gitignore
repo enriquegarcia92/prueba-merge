@@ -1,11 +1,26 @@
+<<<<<<< HEAD
 # Default ignored files
+=======
+﻿# Default ignored files
+>>>>>>> bc13e818a8d52e7c41050dd997df4e5474a88eb3
 /shelf/
 /workspace.xml
 # Rider ignored files
 /projectSettingsUpdater.xml
+<<<<<<< HEAD
 /contentModel.xml
 /modules.xml
 /.idea.WindowsFormsApp1.iml
 # Datasource local storage ignored files
 /../../../../../../../../../../:\Users\UCA\Desktop\a\prueba-merge\WindowsFormsApp1\.idea\.idea.WindowsFormsApp1.dir\.idea/dataSources/
 /dataSources.local.xml
+=======
+/modules.xml
+/contentModel.xml
+/.idea.WindowsFormsApp1.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\.idea\.idea.WindowsFormsApp1.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+>>>>>>> bc13e818a8d52e7c41050dd997df4e5474a88eb3
