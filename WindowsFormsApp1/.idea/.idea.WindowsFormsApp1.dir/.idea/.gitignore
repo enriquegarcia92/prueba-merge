@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.WindowsFormsApp1.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\UCA\Desktop\a\prueba-merge\WindowsFormsApp1\.idea\.idea.WindowsFormsApp1.dir\.idea/dataSources/
+/dataSources.local.xml
