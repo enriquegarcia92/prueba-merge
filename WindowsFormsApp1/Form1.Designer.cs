@@ -61,6 +61,7 @@
             this.precioreciever.Size = new System.Drawing.Size(224, 24);
             this.precioreciever.TabIndex = 2;
             this.precioreciever.Text = "simon";
+            this.precioreciever.Click += new System.EventHandler(this.precioreciever_Click);
             // 
             // label5
             // 
@@ -82,7 +83,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(190, 110);
+            this.ClientSize = new System.Drawing.Size(216, 94);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.precioreciever);
