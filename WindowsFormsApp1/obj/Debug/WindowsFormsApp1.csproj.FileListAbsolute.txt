@@ -10,3 +10,14 @@ D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.inputform.resources
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.inputform.resources
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\UCA\Desktop\prueba-merge\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
